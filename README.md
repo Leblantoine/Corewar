@@ -5,7 +5,7 @@
 Prend un fichier .s et le compile en bytecode .cor
 
 **Option**
-- [-n] Decompile le bytecode .cor en .s
+- [-n] Décompile le bytecode .cor en .s
 
 ###Machine Virtuelle
 
